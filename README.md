@@ -2,7 +2,7 @@
 
 ## Step 1: Clone the repo
 
-git clone https://github.com/IBMDevConnect/demo-callforcodeday.git
+`git clone https://github.com/IBMDevConnect/demo-callforcodeday.git`
 
 ## Step 2: Create Action in IBM Cloud Functions
 
@@ -54,7 +54,37 @@ git clone https://github.com/IBMDevConnect/demo-callforcodeday.git
 
 ## Step 4: Import Watson Assistant workspace
 
-4.1 Create Watson Assistant Service in IBM Cloud
+4.1 Navigate to Catalog > AI > Watson Assistant
+
+![Hamburger9](readme-images/10.png)
+
+4.2 Create Watson Assistant Service
+
+![Hamburger9](readme-images/11.png)
+
+4.3 Launch Tool
+
+![Hamburger9](readme-images/12.png)
+
+4.4 Import Workspace by clicking on Upload icon
+
+![Hamburger9](readme-images/13.png)
+
+4.5 Choose a file and click on Import
+
+![Hamburger9](readme-images/14.png)
+
+4.6 Within Dialog Tab, click on **Anything Else** node
+
+![Hamburger9](readme-images/15.png)
+
+4.7 Within JSON Editor, update **IBM Cloud Functions username, password, namespace and action name** (which was noted earlier step)
+
+![Hamburger9](readme-images/16.png)
+
+Also, update **Discovery service username,password, environment id and collection id** (which was noted in earlier step)
+
+![Hamburger9](readme-images/17.png)
 
 ### Step 4.2- Import Workspace into Watson Assistant
 
