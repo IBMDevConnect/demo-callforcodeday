@@ -6,39 +6,39 @@
 
 ## Step 2: Create Action in IBM Cloud Functions
 
-2.1 Click the Hamburger to open the menu
+Step 2.1 Click the Hamburger to open the menu
 
   ![Hamburger](readme-images/1.png)
  
-2.2 Select **Functions** from menu
+Step 2.2 Select **Functions** from menu
 
   ![Hamburger2](readme-images/2.png)
 
-2.3 Click **START CREATING** button
+Step 2.3 Click **START CREATING** button
 
   ![Hamburger3](readme-images/3.png)
   
-2.4 Select **Create Action**
+Step 2.4 Select **Create Action**
 
   ![Hamburger4](readme-images/4.png)
 
-2.5 Enter **Action Name**(copy Action Name in Notepad-required in later steps) and click **Create**
+Step 2.5 Enter **Action Name**(copy Action Name in Notepad-required in later steps) and click **Create**
 
   ![Hamburger5](readme-images/5.png)
 
-2.6 Copy paste the code from [ibm_cloud_functions_code.txt](https://github.com/IBMDevConnect/demo-callforcodeday/blob/master/ibm_cloud_functions_code.txt) and click on Save
+Step 2.6 Copy paste the code from [ibm_cloud_functions_code.txt](https://github.com/IBMDevConnect/demo-callforcodeday/blob/master/ibm_cloud_functions_code.txt) and click on Save
 
 ![Hamburger6](readme-images/6.png)
 
-2.7 Go back to Functions
+Step 2.7 Go back to Functions
 
   ![Hamburger7](readme-images/7.png)
 
-2.8 Click on **API Key**
+Step 2.8 Click on **API Key**
 
   ![Hamburger8](readme-images/8.png)
 
-2.9 Take note of **Current Namespace** and **API Key** (required in later steps)
+Step 2.9 Take note of **Current Namespace** and **API Key** (required in later steps)
 
   ![Hamburger9](readme-images/9.png)
 
@@ -54,40 +54,36 @@
 
 ## Step 4: Import Watson Assistant workspace
 
-4.1 Navigate to Catalog > AI > Watson Assistant
+Step 4.1 Navigate to Catalog > AI > Watson Assistant
 
 ![Hamburger9](readme-images/10.png)
 
-4.2 Create Watson Assistant Service
+Step 4.2 Create Watson Assistant Service
 
 ![Hamburger9](readme-images/11.png)
 
-4.3 Launch Tool
+Step 4.3 Launch Tool
 
 ![Hamburger9](readme-images/12.png)
 
-4.4 Import Workspace by clicking on Upload icon
+Step 4.4 Import Workspace by clicking on Upload icon
 
 ![Hamburger9](readme-images/13.png)
 
-4.5 Choose a file and click on Import
+Step 4.5 Choose a file and click on Import
 
 ![Hamburger9](readme-images/14.png)
 
-4.6 Within Dialog Tab, click on **Anything Else** node
+Step 4.6 Within Dialog Tab, click on **Anything Else** node
 
 ![Hamburger9](readme-images/15.png)
 
-4.7 Within JSON Editor, update **IBM Cloud Functions username, password, namespace and action name** (which was noted earlier step)
+Step 4.7 Within JSON Editor, update **IBM Cloud Functions username, password, namespace and action name** (which was noted in Step 2.5 && Step 2.9 )
 
 ![Hamburger9](readme-images/16.png)
 
-Also, update **Discovery service username,password, environment id and collection id** (which was noted in earlier step)
+Also, update **Discovery service username,password, environment id and collection id** (which was noted in Step)
 
 ![Hamburger9](readme-images/17.png)
-
-### Step 4.2- Import Workspace into Watson Assistant
-
-### Step 4.3- Update the IBM Cloud Functions credentials and Watson Discovery service credentials
 
 ## Step 5: Try it Out
