@@ -5,23 +5,23 @@
 
 ### Step 1.1- Create an Action in IBM Cloud Functions
 
-![Hamburger](readme_images/1)
+![Hamburger](readme_images/1.png)
 
-![Hamburger](readme_images/2)
+![Hamburger](readme_images/2.png)
 
-![Hamburger](readme_images/3)
+![Hamburger](readme_images/3.png)
 
-![Hamburger](readme_images/4)
+![Hamburger](readme_images/4.png)
 
-![Hamburger](readme_images/5)
+![Hamburger](readme_images/5.png)
 
-![Hamburger](readme_images/6)
+![Hamburger](readme_images/6.png)
 
-![Hamburger](readme_images/7)
+![Hamburger](readme_images/7.png)
 
-![Hamburger](readme_images/8)
+![Hamburger](readme_images/8.png)
 
-![Hamburger](readme_images/9)
+![Hamburger](readme_images/9.png)
 
 ### Step 1.2- Paste the code within the Action
 
