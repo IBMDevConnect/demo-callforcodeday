@@ -125,7 +125,9 @@ Also, update **Discovery service username,password, environment id and collectio
 Some questions you can try out are:
 
 * Can the position of the moon or the planets affect seismicity?
+
 * Can the ground open up during an earthquake?
+
 * Can animals predict earthquake?
 
 ![Hamburger9](readme-images/20.png)
