@@ -1,4 +1,10 @@
-# Call for Code Day Workshop Steps
+# Call for Code Day Workshop
+
+## Pre-requisite
+
+IBM Cloud Account- [https://bit.ly/ibm-acct](https://bit.ly/ibm-acct)
+
+## Steps
 
 1. Clone the repo
 2. Create an Action in IBM Cloud Functions
