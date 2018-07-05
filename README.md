@@ -21,7 +21,7 @@ IBM Cloud Account- [https://bit.ly/ibm-acct](https://bit.ly/ibm-acct)
 Step 2.1 Click the Hamburger to open the menu
 
   ![Hamburger](readme-images/1.png)
- 
+
 Step 2.2 Select **Functions** from menu
 
   ![Hamburger2](readme-images/2.png)
@@ -29,7 +29,7 @@ Step 2.2 Select **Functions** from menu
 Step 2.3 Click **START CREATING** button
 
   ![Hamburger3](readme-images/3.png)
-  
+
 Step 2.4 Select **Create Action**
 
   ![Hamburger4](readme-images/4.png)
@@ -112,7 +112,7 @@ Step 4.6 Within Dialog Tab, click on **Anything Else** node
 
 Step 4.7 Within JSON Editor, update **IBM Cloud Functions username, password, namespace and action name** (which was noted in Step 2.5 && Step 2.9 )
 
-`NOTE: From the API Key-The segment before the colon (:) is your IBM Cloud Functions Username & segment after the colon is your IBM Cloud Functions Password` 
+`NOTE: From the API Key-The segment before the colon (:) is your IBM Cloud Functions Username & segment after the colon is your IBM Cloud Functions Password`
 
 ![Hamburger9](readme-images/16.png)
 
@@ -124,8 +124,8 @@ Also, update **Discovery service username,password, environment id and collectio
 
 Some questions you can try out are:
 
-*Can the position of the moon or the planets affect seismicity?
-*Can the ground open up during an earthquake?
-*Can animals predict earthquake?
+* Can the position of the moon or the planets affect seismicity?
+* Can the ground open up during an earthquake?
+* Can animals predict earthquake?
 
 ![Hamburger9](readme-images/20.png)
