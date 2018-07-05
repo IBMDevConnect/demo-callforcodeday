@@ -6,39 +6,39 @@ git clone https://github.com/IBMDevConnect/demo-callforcodeday.git
 
 ## Step 2: Create Action in IBM Cloud Functions
 
-Click the Hamburger to open the menu
+2.1 Click the Hamburger to open the menu
 
   ![Hamburger](readme-images/1.png)
  
-Select **Functions** from menu
+2.2 Select **Functions** from menu
 
   ![Hamburger2](readme-images/2.png)
 
-Click **START CREATING** button
+2.3 Click **START CREATING** button
 
   ![Hamburger3](readme-images/3.png)
   
-Select **Create Action**
+2.4 Select **Create Action**
 
   ![Hamburger4](readme-images/4.png)
 
-Enter **Action Name**(copy Action Name in Notepad-required in later steps) and click **Create**
+2.5 Enter **Action Name**(copy Action Name in Notepad-required in later steps) and click **Create**
 
   ![Hamburger5](readme-images/5.png)
 
-Copy paste the code from [ibm_cloud_functions_code.txt](https://github.com/IBMDevConnect/demo-callforcodeday/blob/master/ibm_cloud_functions_code.txt) and click on Save
+2.6 Copy paste the code from [ibm_cloud_functions_code.txt](https://github.com/IBMDevConnect/demo-callforcodeday/blob/master/ibm_cloud_functions_code.txt) and click on Save
 
 ![Hamburger6](readme-images/6.png)
 
-Go back to Functions
+2.7 Go back to Functions
 
   ![Hamburger7](readme-images/7.png)
 
-Click on **API Key**
+2.8 Click on **API Key**
 
   ![Hamburger8](readme-images/8.png)
 
-Take note of **Current Namespace** and **API Key** (required in later steps)
+2.9 Take note of **Current Namespace** and **API Key** (required in later steps)
 
   ![Hamburger9](readme-images/9.png)
 
@@ -54,7 +54,7 @@ Take note of **Current Namespace** and **API Key** (required in later steps)
 
 ## Step 4: Import Watson Assistant workspace
 
-### Step 4.1- Create Watson Assistant Service in IBM Cloud
+4.1 Create Watson Assistant Service in IBM Cloud
 
 ### Step 4.2- Import Workspace into Watson Assistant
 
