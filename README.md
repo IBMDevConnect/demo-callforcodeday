@@ -96,7 +96,7 @@ Step 4.4 Import Workspace by clicking on Upload icon
 
 ![Hamburger9](readme-images/13.png)
 
-Step 4.5 Choose a file and click on Import
+Step 4.5 Choose JSON file [workspace-dc5ee9e6-a979-4cd4-a548-520252772a61.json](https://github.com/IBMDevConnect/demo-callforcodeday/blob/master/workspace-dc5ee9e6-a979-4cd4-a548-520252772a61.json) from the folder and click on Import
 
 ![Hamburger9](readme-images/14.png)
 
@@ -105,6 +105,8 @@ Step 4.6 Within Dialog Tab, click on **Anything Else** node
 ![Hamburger9](readme-images/15.png)
 
 Step 4.7 Within JSON Editor, update **IBM Cloud Functions username, password, namespace and action name** (which was noted in Step 2.5 && Step 2.9 )
+
+`NOTE: From the API Key-The segment before the colon (:) is your IBM Cloud Functions Username & segment after the colon is your IBM Cloud Functions Password` 
 
 ![Hamburger9](readme-images/16.png)
 
