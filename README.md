@@ -1,31 +1,43 @@
 # Call for Code Day Workshop Steps
 
 
-## Step 1: IBM Cloud Functions
+## Step 1: Create Action in IBM Cloud Functions
 
-### Step 1.1- Create an Action in IBM Cloud Functions
+Click the Hamburger to open the menu
 
-![Hamburger](readme_images/1.png)
+  ![Hamburger](readme_images/1.png)
+ 
+Select **Functions** from menu
 
-![Hamburger2](readme_images/2.png)
+  ![Hamburger2](readme_images/2.png)
 
-![Hamburger3](readme_images/3.png)
+Click **START CREATING** button
 
-![Hamburger4](readme_images/4.png)
+  ![Hamburger3](readme_images/3.png)
+  
+Select **Create Action**
 
-![Hamburger5](readme_images/5.png)
+  ![Hamburger4](readme_images/4.png)
+
+Enter Action Name and click Create
+
+  ![Hamburger5](readme_images/5.png)
+
+Copy paste the code from "" and click on Save
 
 ![Hamburger6](readme_images/6.png)
 
-![Hamburger7](readme_images/7.png)
+Go back to Functions
 
-![Hamburger8](readme_images/8.png)
+  ![Hamburger7](readme_images/7.png)
 
-![Hamburger9](readme_images/9.png)
+Click on **API Key**
 
-### Step 1.2- Paste the code within the Action
+  ![Hamburger8](readme_images/8.png)
 
-### Step 1.2: Take note of API Key
+Take note of **Current Namespace** and **API Key**
+
+  ![Hamburger9](readme_images/9.png)
 
 ## Step 2: Import documents to Watson Discovery Service
 
