@@ -7,21 +7,21 @@
 
 ![Hamburger](readme_images/1.png)
 
-![Hamburger](readme_images/2.png)
+![Hamburger2](readme_images/2.png)
 
-![Hamburger](readme_images/3.png)
+![Hamburger3](readme_images/3.png)
 
-![Hamburger](readme_images/4.png)
+![Hamburger4](readme_images/4.png)
 
-![Hamburger](readme_images/5.png)
+![Hamburger5](readme_images/5.png)
 
-![Hamburger](readme_images/6.png)
+![Hamburger6](readme_images/6.png)
 
-![Hamburger](readme_images/7.png)
+![Hamburger7](readme_images/7.png)
 
-![Hamburger](readme_images/8.png)
+![Hamburger8](readme_images/8.png)
 
-![Hamburger](readme_images/9.png)
+![Hamburger9](readme_images/9.png)
 
 ### Step 1.2- Paste the code within the Action
 
