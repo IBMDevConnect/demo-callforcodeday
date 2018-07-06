@@ -132,6 +132,4 @@ Some questions you can try out are:
 
 * Can the ground open up during an earthquake?
 
-* Can animals predict earthquake?
-
 ![Hamburger9](readme-images/20.png)
