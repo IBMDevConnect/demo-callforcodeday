@@ -12,6 +12,10 @@ IBM Cloud Account- [https://bit.ly/ibm-acct](https://bit.ly/ibm-acct)
 4. Import Watson Assistant Workspace and update credentials
 5. Try it out
 
+## Architecture
+
+![](readme-images/architecture-draft.png)
+
 ## Step 1: Clone the repo
 
 `git clone https://github.com/IBMDevConnect/demo-callforcodeday.git`
@@ -125,7 +129,9 @@ Also, update **Discovery service username,password, environment id and collectio
 Some questions you can try out are:
 
 * Can the position of the moon or the planets affect seismicity?
+
 * Can the ground open up during an earthquake?
+
 * Can animals predict earthquake?
 
 ![Hamburger9](readme-images/20.png)
