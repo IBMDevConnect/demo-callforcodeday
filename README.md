@@ -14,7 +14,7 @@ IBM Cloud Account- [https://bit.ly/ibm-acct](https://bit.ly/ibm-acct)
 
 ## Architecture
 
-![](readme-images/architecture-draft.png)
+![](readme-images/architecture.png)
 
 ## Step 1: Clone the repo
 
